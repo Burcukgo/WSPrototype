@@ -13,9 +13,9 @@ Bu projede Spring Boot, REST Service, Hibernate, Log4j teknolojileri kullanılm�
 # Project Test Enviroment(POSTMAN)
 <p>
 Http Request List                                                                 Http Request Body
-/subscriber [POST]:   localhost:9090\subscriber  Context Type:(application/json)  {“id”:”4”,”name”:”Stephany Kirk”, “msisdn”:”9055588”}
-/subscriber [PUT]:    localhost:9090\subscriber  Context Type:(application/json)  {“id”:”4”,”name”:”Jhon Kirk”, “msisdn”:”9055588”}
-/subscriber [DELETE]: localhost:9090\subscriber  Context Type:(application/json)  {“id”:”4”}
+<h1>/subscriber [POST]:   localhost:9090\subscriber  Context Type:(application/json)  {“id”:”4”,”name”:”Stephany Kirk”, “msisdn”:”9055588”}</h1>
+<h1>/subscriber [PUT]:    localhost:9090\subscriber  Context Type:(application/json)  {“id”:”4”,”name”:”Jhon Kirk”, “msisdn”:”9055588”}</h1>
+<h1>/subscriber [DELETE]: localhost:9090\subscriber  Context Type:(application/json)  {“id”:”4”}</h1>
 
 <a href="https://github.com/Burcukgo/WSPrototype/blob/master/img/test.png" target="_blank">
 <img src="https://github.com/Burcukgo/WSPrototype/blob/master/img/test.png" width="200" style="max-width:100%;"></a>
