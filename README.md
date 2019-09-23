@@ -2,7 +2,7 @@
 Persistency, Web Servis(WS) ve loglama gibi özelliklere sahip ufak bir prototip tasarlanmıştır.
 Bu projede Spring Boot, REST Service,Hibernate, Log4j teknolojileri kullanılmıştır.Veritabanı olarak MYSQL kullanılmıştır.
 
-Bu projenin amacı REST Servis isteklei ile veritabanındaki subscriber tablosu üzerinde veri ekleme silme ve düzenleme işlemlerini yapmak.Ve bu işlemlerin log bilgilerini veritabanındaki Applog tablosuna kaydetmektir.
+Bu projenin amacı REST Servis isteklei ile veritabanındaki subscriber tablosu üzerinde veri ekleme silme ve düzenleme işlemlerini yapmak.Ve bu işlemlerin log bilgilerini veritabanındaki applog tablosuna kaydetmektir.
 
 # Project Schema
 <p>
