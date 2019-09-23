@@ -1,5 +1,8 @@
 # WSPrototype
-Bu projede Spring Boot, REST Service, Hibernate, Log4j teknolojileri kullanılmıştır.Veritabanı olarak MYSQL kullanılmıştır.
+Persistency, Web Servis(WS) ve loglama gibi özelliklere sahip ufak bir prototip tasarlanmıştır.
+Bu projede Spring Boot, REST Service,Hibernate, Log4j teknolojileri kullanılmıştır.Veritabanı olarak MYSQL kullanılmıştır.
+
+Bu projenin amacı REST Servis isteklei ile veritabanındaki subscriber tablosu üzerinde veri ekleme silme ve düzenleme işlemlerini yapmak.Ve bu işlemlerin log bilgilerini veritabanındaki Applog tablosuna kaydetmektir.
 
 # Project Schema
 <p>
@@ -27,6 +30,8 @@ Http Request List
 # Notes
 <p>
 Eklemiş olduğum prototype.sql dosyasını veritabanınıza import edebilirsiniz(Dosya karakter grubu: UTF8).
+/getAllSubscriber [GET]:   /getAllSubscribersByIdr [GET]: İstek sayfaları çalışmakta fakat datalar görünmemektedir.(Tamamlanmamıştır)
+
 
   
 </p> 
